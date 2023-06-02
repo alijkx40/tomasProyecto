@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(77, 21, 21);
+}
+header{
+    background-color: goldenrod;
+    padding: 25px;
+}
+nav{
+    background-color: goldenrod;
+    padding: 10px;
+}
+section{
+    background-color: darkred;
+}
+article{
+    background-color: darkgray;
+}
+aside{
+    background-color: yellow;
+    width: 30%;
+    float: right;
+}
+footer{
+    background-color: darkred;
+}
+
+table{
+    background-color: lightslategray;
+    width: 700px;
+    position: center;
+}
+cj{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:bold;
+    color:darkred;
+}
